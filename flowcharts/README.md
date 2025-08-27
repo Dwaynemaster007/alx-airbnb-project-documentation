@@ -15,4 +15,4 @@ The flowchart details the end-to-end process for a user booking a property. This
 ## Diagram
 The flowchart, created using Draw.io, is included below. It clearly maps the sequence of actions, data inputs, and outputs, providing a comprehensive overview of the booking workflow.
 
-![Airbnb Booking Process Flowchart](flowcharts/booking-process-flowchart.png)
+![Airbnb Booking Process Flowchart](booking-process-flowchart.png)
