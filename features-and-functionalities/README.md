@@ -44,4 +44,4 @@ The backend system is designed to support the following major functionalities, w
 ## Visual Representation
 An image of the features and functionalities diagram is included below to provide a clear, visual overview of the system's architecture.
 
-![ALX Airbnb Project Features and Functionalities.png](features-and-functionalities/ALX%20Airbnb%20Project%20Features%20and%20Functionalities.png)
+![ALX Airbnb Project Features and Functionalities.png](ALX%20Airbnb%20Project%20Features%20and%20Functionalities.png)
