@@ -21,4 +21,4 @@ The following key use cases are detailed in the diagram, showing how each actor 
 ## Diagram
 The use case diagram, created using Draw.io, is included below. It illustrates the relationships between the actors and the use cases, providing a clear overview of the system's intended behavior.
 
-![Airbnb Use Case Diagram](use-case-diagram/ALX%20Airbnb%20Use%20Case%20Diagram.png)
+![Airbnb Use Case Diagram](ALX%20Airbnb%20Use%20Case%20Diagram.png)
