@@ -13,4 +13,4 @@ The diagram is composed of the following key elements:
 ## Diagram
 The DFD provides a clear map of the system's architecture, showing how user inputs are processed and where data is stored.
 
-![Airbnb Data Flow Diagram](./data-flow-diagram/data-flow.png)
+![Airbnb Data Flow Diagram](data-flow-diagram/data-flow.png)
